@@ -1,0 +1,20 @@
+{
+  "roc_auc": 0.7985114795918367,
+  "precision_default_threshold": 0.04316179287447325,
+  "recall_default_threshold": 0.845,
+  "f1_default_threshold": 0.08212853845219292,
+  "confusion_matrix_default_threshold": [
+    [
+      12107,
+      7493
+    ],
+    [
+      62,
+      338
+    ]
+  ],
+  "optimal_threshold": 0.9815540313720703,
+  "precision_optimal_threshold": 0.2887323943661972,
+  "recall_optimal_threshold": 0.1025,
+  "f1_optimal_threshold": 0.15129151291512916
+}
